@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Payroc.LoadBalancer", "Payroc.LoadBalancer\Payroc.LoadBalancer.csproj", "{5BDC0A8E-925F-4AED-955A-01F3C32B477D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Payroc.LoadBalancer.Tests", "Payroc.LoadBalancer.Tests\Payroc.LoadBalancer.Tests.csproj", "{8944D3F4-8459-4831-B785-3A7D241CF456}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BDC0A8E-925F-4AED-955A-01F3C32B477D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BDC0A8E-925F-4AED-955A-01F3C32B477D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BDC0A8E-925F-4AED-955A-01F3C32B477D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BDC0A8E-925F-4AED-955A-01F3C32B477D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8944D3F4-8459-4831-B785-3A7D241CF456}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8944D3F4-8459-4831-B785-3A7D241CF456}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8944D3F4-8459-4831-B785-3A7D241CF456}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8944D3F4-8459-4831-B785-3A7D241CF456}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
